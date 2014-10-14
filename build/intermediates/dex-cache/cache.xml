@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\debug\classes-522e598bc58ada00eeb94c4a807f47ca468cc52a.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\debug\classes-1c7d676a03ad90108a0580c6fba3c5b8cd11d324.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\mobile\build\intermediates\pre-dexed\debug\classes-1e867d8500a5014ee6ce4a6bcc16cd9d2499ab21.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\mobile\build\intermediates\exploded-aar\Torque\shared\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f68f348a4cfbca5996d30e2affda317afe70287a"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-929b50a9f6fe31eb31dfbc55bebc4b63f42fcff8.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\release\classes-2798e7d91a0b0c8222800ad605d3b77d37b1cd78.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\exploded-aar\Torque\shared\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4c5aaf77b0c62b6486b22f7bd48fc172c959d976"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\debug\classes-6b052ed6aef275a6e7bf64a2bb643036e1a1f38f.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-c5e56fa95f5a5cfe5768faa7e2c0582bbc96a72d.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\mobile\build\intermediates\pre-dexed\debug\classes-68af1830a97d68f7571d117a1139488d79fcdedc.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\mobile\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\debug\classes-51bd35a6977cd1d5d56e8f895583a29e3898878f.jar"
+        jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
