@@ -65,10 +65,11 @@ public class MyBarChartView extends View {
     }
     private String prepDate(String date)
     {
+        Log.i("date test",date);
         String[] sArr=date.split(" ");
         if(sArr.length>=2)
         {
-            return sArr[0]+" "+sArr[1];
+            return sArr[0].substring(0,3)+" "+sArr[1];
         }
         return date;
 

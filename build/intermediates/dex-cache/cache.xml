@@ -24,7 +24,7 @@
         jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\mobile\build\intermediates\exploded-aar\Torque\shared\unspecified\classes.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="f68f348a4cfbca5996d30e2affda317afe70287a"/>
+        sha1="b53e9f8abee5da777aa73e3cc213412740a091ba"/>
     <item
         dex="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-929b50a9f6fe31eb31dfbc55bebc4b63f42fcff8.jar"
         jar="C:\Users\Oleksiy\Documents\Programming\AndroidStudio\Torque\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
