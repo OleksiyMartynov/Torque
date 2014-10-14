@@ -22,15 +22,14 @@ import martynov.com.torque.R;
  * Created by Oleksiy on 7/24/2014.
  */
 public class MyBarChartView extends View {
-    //private List<MyDayData> dataList;
-    private MyList barList;
-    private int width,height;
-
     private static final String ORANGE="#FF7F00";
     private static final String YELLOW="#DBDB5C";
     private static final String GREEN="#A5FF00";
     private static final String BLUE="#00B6FF";
     private static final String PURPLE="#CD66CD";
+    //private List<MyDayData> dataList;
+    private MyList barList;
+    private int width, height;
 
     public MyBarChartView(Context context) {
         super(context);
@@ -65,7 +64,7 @@ public class MyBarChartView extends View {
     }
     private String prepDate(String date)
     {
-        Log.i("date test",date);
+        Log.i("date test:", date);
         String[] sArr=date.split(" ");
         if(sArr.length>=2)
         {
